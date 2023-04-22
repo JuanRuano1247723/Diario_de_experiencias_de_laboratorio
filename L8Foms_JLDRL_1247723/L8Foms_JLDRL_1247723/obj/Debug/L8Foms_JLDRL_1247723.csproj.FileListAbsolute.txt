@@ -1,0 +1,10 @@
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 8\L8Foms_JLDRL_1247723\L8Foms_JLDRL_1247723\bin\Debug\L8Foms_JLDRL_1247723.exe.config
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 8\L8Foms_JLDRL_1247723\L8Foms_JLDRL_1247723\bin\Debug\L8Foms_JLDRL_1247723.exe
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 8\L8Foms_JLDRL_1247723\L8Foms_JLDRL_1247723\bin\Debug\L8Foms_JLDRL_1247723.pdb
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 8\L8Foms_JLDRL_1247723\L8Foms_JLDRL_1247723\obj\Debug\L8Foms_JLDRL_1247723.csproj.AssemblyReference.cache
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 8\L8Foms_JLDRL_1247723\L8Foms_JLDRL_1247723\obj\Debug\L8Foms_JLDRL_1247723.laboratorio_8.resources
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 8\L8Foms_JLDRL_1247723\L8Foms_JLDRL_1247723\obj\Debug\L8Foms_JLDRL_1247723.Properties.Resources.resources
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 8\L8Foms_JLDRL_1247723\L8Foms_JLDRL_1247723\obj\Debug\L8Foms_JLDRL_1247723.csproj.GenerateResource.cache
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 8\L8Foms_JLDRL_1247723\L8Foms_JLDRL_1247723\obj\Debug\L8Foms_JLDRL_1247723.csproj.CoreCompileInputs.cache
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 8\L8Foms_JLDRL_1247723\L8Foms_JLDRL_1247723\obj\Debug\L8Foms_JLDRL_1247723.exe
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 8\L8Foms_JLDRL_1247723\L8Foms_JLDRL_1247723\obj\Debug\L8Foms_JLDRL_1247723.pdb
