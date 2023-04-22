@@ -1,0 +1,10 @@
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\L9_Clases\L9_Clases\bin\Debug\L9_Clases.exe.config
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\L9_Clases\L9_Clases\bin\Debug\L9_Clases.exe
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\L9_Clases\L9_Clases\bin\Debug\L9_Clases.pdb
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\L9_Clases\L9_Clases\obj\Debug\L9_Clases.csproj.AssemblyReference.cache
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\L9_Clases\L9_Clases\obj\Debug\L9_Clases.Form1.resources
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\L9_Clases\L9_Clases\obj\Debug\L9_Clases.Properties.Resources.resources
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\L9_Clases\L9_Clases\obj\Debug\L9_Clases.csproj.GenerateResource.cache
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\L9_Clases\L9_Clases\obj\Debug\L9_Clases.csproj.CoreCompileInputs.cache
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\L9_Clases\L9_Clases\obj\Debug\L9_Clases.exe
+C:\Users\04dan\Dropbox\Mi PC (LAPTOP-35D3RKBD)\Desktop\URL\1er Ciclo\PENSAMIENTO COMPUTACIONAL\Programas\Semana 9\L9_Clases\L9_Clases\obj\Debug\L9_Clases.pdb
